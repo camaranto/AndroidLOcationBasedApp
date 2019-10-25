@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/13e857b21a8b5261fbae29ea5cc08347/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8473236fb95a53db9284fc06c4cdcb4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7f27de3d6623502e36c9a29e900ea571/AndroidManifest.xml:2:1-11:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:2:1-29:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/55ce0c9b990817478caa13f5f4d32fd1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/292b6653d5ef8ab83da9b94e539eb677/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/220f422dbe5c4bb68a10d06ac0410d6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7c9e0ec03c57e1fafe78a09469c5d787/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5a764b05ea259c29018ee95b5be133ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f3456a39b2fd47cbd5b23d858460bc96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/07dd5e47d0faf668ff0c97943c35bb39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/84455aee93c41002bb6dc04defff0227/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a8efefbb21266d75a17854333fd859f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f304390484b7c98f10eae6e08cf9c619/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c6cc0153debe34e68cc6259569446b6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f75ae5af747594e5e3b812678ea80c72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/94c7a0f5bb50b17a59838788620d8221/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/54b01826f65b746721dd027dab58b0fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ebfcc5aa1738d9f83e8a8944c26f0f48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7f54811fe3e770988653fc33b93937b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7c7cbb7fa56e51609928f80458cbe775/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4462ad14150d2a14774a4b3e17866208/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b99d081f6a915b7400491feabe87de7a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/c024454b2ae277d64352b883b38dbdfa/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2c5783828efec0fa8a5f2b593cb8dd7f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b0e0c7ea256098ea77e18609b8fc776e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b7bff182687897ef63f51997d683a9e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/02d31dac18acbee8a86c765ed93a95f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b07e03b0fda7dd9773c2df4c3e962e7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3009218de88a5ff85df89c2a196a925e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2bcff3f8cd5db047e3ee168091ce5cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cd83b32dc45cf428b5b06ef394da6aa8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/23953d83e31e55cbfe3945401a8fa187/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9b12cdc5cd8e03cfe8e7b13897572a6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d8d5f44ad04436d23c673a0a12f4f3f0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:10:22-73
+application
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:12:5-30:19
+MERGED from [com.android.support:design:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/13e857b21a8b5261fbae29ea5cc08347/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/13e857b21a8b5261fbae29ea5cc08347/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7f27de3d6623502e36c9a29e900ea571/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7f27de3d6623502e36c9a29e900ea571/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7c7cbb7fa56e51609928f80458cbe775/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7c7cbb7fa56e51609928f80458cbe775/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4462ad14150d2a14774a4b3e17866208/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4462ad14150d2a14774a4b3e17866208/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7c7cbb7fa56e51609928f80458cbe775/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.sbl_app.RegisterActivity
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:19:19-51
+activity#com.example.sbl_app.LoginActivity
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:20:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.sbl_app.MainActivity
+ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:27:9-29:20
+	android:name
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/13e857b21a8b5261fbae29ea5cc08347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/13e857b21a8b5261fbae29ea5cc08347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8473236fb95a53db9284fc06c4cdcb4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8473236fb95a53db9284fc06c4cdcb4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7f27de3d6623502e36c9a29e900ea571/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7f27de3d6623502e36c9a29e900ea571/AndroidManifest.xml:5:5-7:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/55ce0c9b990817478caa13f5f4d32fd1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/55ce0c9b990817478caa13f5f4d32fd1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/292b6653d5ef8ab83da9b94e539eb677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/292b6653d5ef8ab83da9b94e539eb677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/220f422dbe5c4bb68a10d06ac0410d6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/220f422dbe5c4bb68a10d06ac0410d6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7c9e0ec03c57e1fafe78a09469c5d787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7c9e0ec03c57e1fafe78a09469c5d787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5a764b05ea259c29018ee95b5be133ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5a764b05ea259c29018ee95b5be133ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f3456a39b2fd47cbd5b23d858460bc96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f3456a39b2fd47cbd5b23d858460bc96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/07dd5e47d0faf668ff0c97943c35bb39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/07dd5e47d0faf668ff0c97943c35bb39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/84455aee93c41002bb6dc04defff0227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/84455aee93c41002bb6dc04defff0227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a8efefbb21266d75a17854333fd859f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a8efefbb21266d75a17854333fd859f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f304390484b7c98f10eae6e08cf9c619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f304390484b7c98f10eae6e08cf9c619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c6cc0153debe34e68cc6259569446b6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c6cc0153debe34e68cc6259569446b6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f75ae5af747594e5e3b812678ea80c72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f75ae5af747594e5e3b812678ea80c72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/94c7a0f5bb50b17a59838788620d8221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/94c7a0f5bb50b17a59838788620d8221/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/54b01826f65b746721dd027dab58b0fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/54b01826f65b746721dd027dab58b0fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ebfcc5aa1738d9f83e8a8944c26f0f48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ebfcc5aa1738d9f83e8a8944c26f0f48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7f54811fe3e770988653fc33b93937b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7f54811fe3e770988653fc33b93937b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7c7cbb7fa56e51609928f80458cbe775/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7c7cbb7fa56e51609928f80458cbe775/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4462ad14150d2a14774a4b3e17866208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4462ad14150d2a14774a4b3e17866208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b99d081f6a915b7400491feabe87de7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b99d081f6a915b7400491feabe87de7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/c024454b2ae277d64352b883b38dbdfa/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/c024454b2ae277d64352b883b38dbdfa/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2c5783828efec0fa8a5f2b593cb8dd7f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/2c5783828efec0fa8a5f2b593cb8dd7f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b0e0c7ea256098ea77e18609b8fc776e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b0e0c7ea256098ea77e18609b8fc776e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b7bff182687897ef63f51997d683a9e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b7bff182687897ef63f51997d683a9e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/02d31dac18acbee8a86c765ed93a95f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/02d31dac18acbee8a86c765ed93a95f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b07e03b0fda7dd9773c2df4c3e962e7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b07e03b0fda7dd9773c2df4c3e962e7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3009218de88a5ff85df89c2a196a925e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3009218de88a5ff85df89c2a196a925e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2bcff3f8cd5db047e3ee168091ce5cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2bcff3f8cd5db047e3ee168091ce5cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cd83b32dc45cf428b5b06ef394da6aa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cd83b32dc45cf428b5b06ef394da6aa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/23953d83e31e55cbfe3945401a8fa187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/23953d83e31e55cbfe3945401a8fa187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9b12cdc5cd8e03cfe8e7b13897572a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9b12cdc5cd8e03cfe8e7b13897572a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d8d5f44ad04436d23c673a0a12f4f3f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d8d5f44ad04436d23c673a0a12f4f3f0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sebastianvalle/AndroidStudioProjects/SBLapp/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.0] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.1.0.aar/aca79735fcd2e1c9edaef133c577ffd9/AndroidManifest.xml:26:9-45
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sebastianvalle/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/95f79d0dab8a3b8993f1251dc048f84b/AndroidManifest.xml:24:13-83
